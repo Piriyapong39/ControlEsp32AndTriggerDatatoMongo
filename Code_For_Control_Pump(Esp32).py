@@ -3,6 +3,8 @@ import requests
 import machine
 import time
 import utime
+from dotenv import load_dotenv
+load_dotenv()
 
 # เชื่อมต่อ Wi-Fi
 ssid = "Natutitato"
