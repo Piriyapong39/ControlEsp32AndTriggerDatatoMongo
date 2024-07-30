@@ -1,0 +1,1 @@
+0 8 * * * /usr/bin/python3 /home/ec2-user/project/test.py
